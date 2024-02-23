@@ -9,7 +9,7 @@ package leetcode206;
  * -5000 <= Node.val <= 5000
  * 进阶：链表可以选用迭代或递归方式完成反转。你能否用两种方法解决这道题？
  * <p>
- * 解法 ： 滑动窗口
+ * 解法 ： 迭代 模拟法
  */
 class ListNode {
     int val;
