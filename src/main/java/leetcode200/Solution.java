@@ -1,5 +1,6 @@
 package leetcode200;
 
+// BFS
 class Solution {
     boolean[][] visited;
 
