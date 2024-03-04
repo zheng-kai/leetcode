@@ -3,6 +3,7 @@ package leetcode46;
 import java.util.ArrayList;
 import java.util.List;
 
+// 回溯法
 class Solution {
     List<List<Integer>> res = new ArrayList<>();
 
