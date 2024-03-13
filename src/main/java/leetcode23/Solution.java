@@ -10,6 +10,7 @@ package leetcode23;
  * ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+// 头插法+分治法
 class ListNode {
     int val;
     ListNode next;
